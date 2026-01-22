@@ -29,4 +29,14 @@ This project provides:
 ---
 
 ## 🏗️ Architecture
+Threat Intelligence Feed
+|
+Cloud Logs (AWS | Azure | GCP)
+|
+IOC Correlation Engine
+|
+Risk Scoring Engine
+|
+Enriched IOC Dataset & Risk Report
+
 
