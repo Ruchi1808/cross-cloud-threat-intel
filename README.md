@@ -91,6 +91,7 @@ cross-cloud-threat-intel/
 pip install -r requirements.txt
 python src/main.py
 ```
+---
 📊 Output
 ```
 enriched_iocs.csv
@@ -117,6 +118,7 @@ Ruchi Kumari Singh
 Cybersecurity Enthusiast | Cloud Security | SOC Operations
 ```
 ---
+
 
 
 
