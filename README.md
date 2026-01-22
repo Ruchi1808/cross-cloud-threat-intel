@@ -42,6 +42,58 @@ Enriched IOC Dataset & Risk Report
 ```
 ---
 
+## ⚙️ Features
+- Threat feed ingestion (CSV)
+- AWS, Azure, GCP log analysis (simulated)
+- IOC correlation using Pandas
+- Risk score calculation
+- Security reporting
+
+---
+
+## 🛠️ Technologies Used
+- Python 3
+- Pandas
+- Requests
+- AWS S3 (simulated)
+- Azure Blob Storage (simulated)
+- GCP Cloud Storage (simulated)
+
+---
+
+## 📂 Project Structure
+```
+cross-cloud-threat-intel/
+├── data/
+│ ├── threat_feed.csv
+│ ├── aws_logs.csv
+│ ├── azure_logs.csv
+│ └── gcp_logs.csv
+│
+├── src/
+│ ├── ingest.py
+│ ├── correlate.py
+│ ├── risk.py
+│ └── main.py
+│
+├── output/
+│ ├── enriched_iocs.csv
+│ └── risk_report.txt
+│
+├── requirements.txt
+└── README.md
+```
+---
+
+
+## 🚀 How to Run the Project
+```bash
+pip install -r requirements.txt
+python src/main.py
+
+
+
+
 
 
 
