@@ -90,6 +90,33 @@ cross-cloud-threat-intel/
 ```bash
 pip install -r requirements.txt
 python src/main.py
+```
+📊 Output
+
+enriched_iocs.csv
+Correlated IOCs with severity, confidence, and risk score.
+
+risk_report.txt
+Human-readable report highlighting high-risk threats.
+---
+
+🔐 Use Cases
+
+SOC Analyst threat triage
+
+Cloud security monitoring
+
+Threat intelligence correlation
+
+Cybersecurity learning & portfolio demonstration
+
+---
+👩‍💻 Author
+
+Ruchi Kumari Singh
+Cybersecurity Enthusiast | Cloud Security | SOC Operations
+
+
 
 
 
