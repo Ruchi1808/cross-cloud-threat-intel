@@ -1,0 +1,4 @@
+timestamp,account_id,source_ip,event_name,service,subscription_id,operation,status,project_id,method,resource,ioc,type,severity,confidence,source,risk_score
+2026-01-22,111122223333.0,8.8.8.8,ConsoleLogin,CloudTrail,,,,,,,8.8.8.8,ip,high,90,abuseipdb,87
+2026-01-22,,45.33.32.156,,,sub-1234,VMLogin,Failed,,,,45.33.32.156,ip,medium,75,alienvault,62
+2026-01-22,,8.8.8.8,,,,,,gcp-proj-1,compute.instances.get,ComputeEngine,8.8.8.8,ip,high,90,abuseipdb,87

@@ -1,0 +1,3 @@
+[HIGH] IOC: 8.8.8.8 | Risk Score: 87
+[MEDIUM] IOC: 45.33.32.156 | Risk Score: 62
+[HIGH] IOC: 8.8.8.8 | Risk Score: 87

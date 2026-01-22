@@ -1,0 +1,4 @@
+ioc,type,severity,confidence,source
+8.8.8.8,ip,high,90,abuseipdb
+45.33.32.156,ip,medium,75,alienvault
+malicious.com,domain,high,85,virustotal

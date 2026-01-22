@@ -1,0 +1,2 @@
+timestamp,project_id,source_ip,method,resource
+2026-01-22,gcp-proj-1,8.8.8.8,compute.instances.get,ComputeEngine
